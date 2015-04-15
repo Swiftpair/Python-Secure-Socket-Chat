@@ -78,6 +78,8 @@ Then
 python client.py to run the client
 
 The console mode supports both group chat and private chat.
+
 Application Configuration
+
 The application configuration can be edited in the file SwiftChat/common/config/config.py
 
